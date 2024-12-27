@@ -1,6 +1,6 @@
 ---
 # REPRESENTATION THE INTERNSHIP ON SOFTWARE DEVELOPER (BACK-END DEVELOPER) AS COMPUTER ENGINEER STUDENT .
-<hr>
+---
 [https://github.com/Burhan0664]
 [https://github.com/Burhan0664/l-cstaj-4]
 [https://github.com/Burhan0664/l-cstaj-3]
