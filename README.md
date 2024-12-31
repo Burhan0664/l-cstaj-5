@@ -29,7 +29,7 @@ This repository includes a detailed project report, **[Burhan.pdf](https://githu
 
 ---
 
-## 🚀 Key Skills Demonstrated  
+##  Key Skills Demonstrated  
 
 - **Full-Stack Web Development:**  
   - Backend development with FastAPI and database integration using SQLite.  
@@ -46,7 +46,7 @@ This repository includes a detailed project report, **[Burhan.pdf](https://githu
 
 ---
 
-## 🛠️ Technologies Used  
+##  Technologies Used  
 
 - **Programming Languages:** Python, C, SQL  
 - **Frameworks and Tools:**  
@@ -57,7 +57,7 @@ This repository includes a detailed project report, **[Burhan.pdf](https://githu
 
 ---
 
-## 🌟 Why Review This Repository?  
+##  Why Review This Repository?  
 
 - **Professional Experience:** Demonstrates practical application of software development in a real-world setting.  
 - **Comprehensive Documentation:** The **Burhan.pdf** report offers in-depth insights into my contributions and learning.  
@@ -65,5 +65,4 @@ This repository includes a detailed project report, **[Burhan.pdf](https://githu
 
 ---
 
-## 📂 Repository Structure  
 
