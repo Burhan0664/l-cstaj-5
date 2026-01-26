@@ -1,4 +1,4 @@
-# l-cstaj-5
+# l-cstaj-5 (SUNUM)
 
 **l-cstaj-5**, burda görmüş olduğunuz repo projenin genel yapısının sunuma dökülmüş halidir repoda görmüş olduğunuz pdf yapısından girip hem yapmış olduğum staj hakkında hem de proje hakkında bilgi sahibi olabilirsiniz.
 
