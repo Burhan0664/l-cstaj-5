@@ -1,68 +1,139 @@
----
-# REPRESENTATION THE INTERNSHIP ON SOFTWARE DEVELOPER (BACK-END DEVELOPER) AS COMPUTER ENGINEER STUDENT .
----
-[https://github.com/Burhan0664]<br>
-[https://github.com/Burhan0664/l-cstaj-4]<br>
-[https://github.com/Burhan0664/l-cstaj-3]<br>
-[https://github.com/Burhan0664/l-cstaj-2]<br>
-[https://github.com/Burhan0664/l-cstaj-1]<br>
-[https://certificates.cs50.io/40c0f40e-2a84-4168-9bec-80adc0264e59.pdf?size=letter]<br>
-[https://www.linkedin.com/posts/burhancavdaroglu_cs50-harvard-computerscience-activity-7251998886301491202-76Bd?utm_source=share&utm_medium=member_desktop]<br>
-[https://pll.harvard.edu/course/cs50-introduction-computer-science]
+# l-cstaj-5
 
+**l-cstaj-5**, burda görmüş olduğunuz repo projenin genel yapısının sunuma dökülmüş halidir repoda görmüş olduğunuz pdf yapısından girip hem yapmış olduğum staj hakkında hem de proje hakkında bilgi sahibi olabilirsiniz.
 
-# l-cstaj-5 - Internship Project Report
-
-Welcome to **l-cstaj-5**, a repository showcasing my accomplishments and experiences during a software development internship. This project reflects my hands-on engagement with real-world software development challenges, leveraging modern technologies and best practices.
 
 ---
 
-## 📄 Project Report
+## 📌 Proje Amacı
 
-This repository includes a detailed project report, **[Burhan.pdf](https://github.com/Burhan0664/l-cstaj-5/blob/main/Burhan.pdf)**, which outlines:  
+Bu projenin amacı;
 
-- **Internship Overview:** Objectives and scope of the internship.  
-- **Key Contributions:** Highlights of the tasks and responsibilities handled.  
-- **Technologies Used:** Tools and frameworks applied during the internship.  
-- **Learning Outcomes:** Skills and knowledge gained through practical experience.  
-- **Problem-Solving Approach:** Case studies of challenges faced and solutions implemented.  
-
----
-
-##  Key Skills Demonstrated  
-
-- **Full-Stack Web Development:**  
-  - Backend development with FastAPI and database integration using SQLite.  
-  - Frontend design and interaction using HTML, CSS, JavaScript, and React.  
-
-- **Algorithmic Thinking:**  
-  - Problem-solving using Python, C, and SQL.  
-
-- **Security Practices:**  
-  - Applied secure development methodologies using Kali Linux.  
-
-- **Project Documentation:**  
-  - Comprehensive documentation of work processes and outcomes, as detailed in the **Burhan.pdf** report.  
+* Algoritmik düşünme yeteneğini geliştirmek,
+* Güvenli yazılım geliştirme prensiplerini uygulamak,
+* Veri tabanı ve veri işleme becerilerini pekiştirmek,
+* Staj sürecinde edinilen teorik ve pratik bilgileri gerçek projeler üzerinde uygulamaktır.
 
 ---
 
-##  Technologies Used  
+## 🧩 Proje Genel Bakış
 
-- **Programming Languages:** Python, C, SQL  
-- **Frameworks and Tools:**  
-  - FastAPI for API development  
-  - React for frontend  
-  - SQLite for database management  
-- **Operating Systems and Security:** Kali Linux for secure development practices  
+Bu proje, **FastAPI** kullanılarak geliştirilmiş bir **RESTful API** çalışmasıdır ve staj süreci boyunca **aşama aşama (1 → 5)** ilerleyecek şekilde planlanmıştır.
+
+Her aşama, backend geliştirme sürecinin farklı bir konusuna odaklanarak projenin kademeli olarak olgunlaşmasını sağlamaktadır.
 
 ---
 
-##  Why Review This Repository?  
+## 🚀 Özellikler
 
-- **Professional Experience:** Demonstrates practical application of software development in a real-world setting.  
-- **Comprehensive Documentation:** The **Burhan.pdf** report offers in-depth insights into my contributions and learning.  
-- **Versatility in Skills:** Showcases expertise in multiple domains, including web development, algorithms, and security.  
+* Algoritmik problem çözme ve optimizasyon
+* Güvenli geliştirme ortamında çalışma
+* Veri tabanı tasarımı ve sorgulama
+* Staj seviyesini aşan profesyonel yaklaşım
+* Temiz, anlaşılır ve sürdürülebilir kod yapısı
 
 ---
+
+## 🛠️ Kullanılan Teknolojiler ve Araçlar
+
+### 💻 Programlama Dilleri
+
+* **Python**
+
+### 🧰 Geliştirme Araçları
+
+* **Kali Linux** – Güvenli geliştirme ve test ortamı
+* **Git & GitHub** – Versiyon kontrolü ve proje takibi
+* **VS Code** – Kod yazmak için kullanılan editör
+
+
+### 📚 Teknik Yetkinlikler
+
+* Veri yapıları ve algoritmalar
+* Güvenli kodlama prensipleri
+* İlişkisel veri tabanı sorguları
+* Problemi analiz etme ve çözüm üretme
+
+---
+
+
+## 📄 Dokümantasyon ve Kaynaklar
+
+Bu projede, **FastAPI ile RESTful API geliştirme sürecinde** kullanılan temel dokümantasyonlar ve mimari yapılar aşağıda belirtilmiştir. Proje, bu kaynaklar referans alınarak **modern, sürdürülebilir ve katmanlı bir backend yapısı** hedeflenerek geliştirilmiştir.
+
+### 🏗️ Kullanılan Mimari ve Yapılar
+
+* **3-Tier Architecture (Katmanlı Mimari)**  
+  Proje; sunum katmanı, iş katmanı ve veri erişim katmanı olacak şekilde tasarlanmıştır. 
+  Bu yapı sayesinde kod okunabilirliği, sürdürülebilirlik ve test edilebilirlik artırılmıştır.
+
+* **RESTful API Mimarisi**  
+  API endpoint’leri REST prensiplerine uygun olarak tasarlanmış, 
+  HTTP metodları (GET, POST, PUT, DELETE) aktif şekilde kullanılmıştır.
+
+* **Pydantic (Veri Doğrulama)**  
+  Request ve response verilerinin doğrulanması için Pydantic kullanılmıştır. 
+  Bu sayede tip güvenliği sağlanmış ve hatalı veri girişleri engellenmiştir.
+
+* **FastAPI Framework**  
+  Yüksek performanslı, modern ve hızlı API geliştirme amacıyla FastAPI tercih edilmiştir. 
+  Otomatik Swagger (OpenAPI) dokümantasyonu ile API testleri kolaylaştırılmıştır.
+
+* **PostgreSQL (İlişkisel Veritabanı)**  
+  Projede kalıcı veri yönetimi için PostgreSQL kullanılmıştır. 
+  Veri tabanı işlemleri RESTful API yapısına uygun şekilde tasarlanmıştır.
+
+* **Alembic (Database Migration)**  
+  Veritabanı şema değişikliklerinin yönetimi için Alembic kullanılmıştır. 
+  Migration yapısı sayesinde veritabanı versiyonlaması kontrollü şekilde sağlanmıştır.
+  
+* **React (Front-End)**  
+API ile etkileşim sağlayan kullanıcı arayüzlerinin geliştirilmesi için React kullanılmıştır.
+RESTful API endpoint’leri frontend tarafından consume edilerek veri gösterimi ve kullanıcı etkileşimi sağlanmıştır.
+
+---
+
+### 📚 Faydalı Kaynaklar
+
+Proje geliştirme sürecinde yararlanılan başlıca dokümantasyonlar:
+
+* [Mimari Dökümanı – 3 Tier Design Pattern](https://levelup.gitconnected.com/structuring-fastapi-project-using-3-tier-design-pattern-4d2e88a55757)
+* [Pydantic Dokümantasyonu](https://realpython.com/python-pydantic/)
+* [FastAPI Dokümantasyonu](https://realpython.com/fastapi-python-web-apis/)
+* [PostgreSQL – FastAPI SQL Databases](https://fastapi.tiangolo.com/tutorial/sql-databases/)
+* [Alembic Dokümantasyonu](https://alembic.sqlalchemy.org/en/latest/)
+
+---
+
+## 🎓 Staj Kazanımları
+
+Bu proje sayesinde;
+
+* Gerçek dünya problemlerine yazılımsal çözüm üretme
+* Güvenli yazılım geliştirme bilinci
+* Takım çalışmasına ve versiyon kontrol sistemlerine uyum
+* Teknik dokümantasyon hazırlama
+
+konularında önemli kazanımlar elde edilmiştir.
+
+---
+
+## 📄 Lisans
+
+Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
+
+---
+
+## 👨‍💻 Geliştirici
+
+**Burhan Çavdaroğlu**  
+📍 Ankara, Türkiye  
+🔗 LinkedIn: https://www.linkedin.com/in/burhancavdaroglu/
+
+
+
+
+
+
 
 
