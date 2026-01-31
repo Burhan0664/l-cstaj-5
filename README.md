@@ -118,11 +118,6 @@ konularında önemli kazanımlar elde edilmiştir.
 
 ---
 
-## 📄 Lisans
-
-Bu proje eğitim ve portföy amaçlı geliştirilmiştir.
-
----
 
 ## 👨‍💻 Geliştirici
 
