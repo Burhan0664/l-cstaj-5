@@ -93,7 +93,7 @@ RESTful API endpoint’leri frontend tarafından consume edilerek veri gösterim
 
 ---
 
-### 📚 Faydalı Kaynaklar
+### 📚 Kullanılan Kaynaklar
 
 Proje geliştirme sürecinde yararlanılan başlıca dokümantasyonlar:
 
